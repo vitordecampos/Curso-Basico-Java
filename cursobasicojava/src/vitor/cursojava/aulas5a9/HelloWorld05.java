@@ -1,4 +1,4 @@
-package cursobasicojava;
+package vitor.cursojava.aulas5a9;
 
 public class HelloWorld05 {
 	
