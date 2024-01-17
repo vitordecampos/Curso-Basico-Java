@@ -1,4 +1,4 @@
-package ExerciciosAula17LoopFor;
+package ExerciciosAula16e17LoopFor;
 
 import java.util.Scanner;
 
