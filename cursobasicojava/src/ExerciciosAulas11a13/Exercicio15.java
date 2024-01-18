@@ -23,12 +23,12 @@ public class Exercicio15 {
 		double descontos = inss + contribuicaoSindical + IR;
 		double salarioLiquido = salarioBruto - descontos;
 		
-		System.out.println("Salario Bruto = " + salarioBruto);
-		System.out.println("INSS = " + inss);
-		System.out.println("Sindicato = " + contribuicaoSindical);
-		System.out.println("IR = " + IR);
-		System.out.println("Descontos = " + descontos);
-		System.out.println("Salario Liquido = " + salarioLiquido);
+		System.out.printf("Salario Bruto = " + "%.2f%n", salarioBruto);
+		System.out.printf("INSS = " + "%.2f%n", inss);
+		System.out.printf("Sindicato = " + "%.2f%n", contribuicaoSindical);
+		System.out.printf("IR = " + "%.2f%n", IR);
+		System.out.printf("Descontos = " + "%.2f%n", descontos);
+		System.out.printf("Salario Liquido = " + "%.2f%n", salarioLiquido);
 		
 	}
 
