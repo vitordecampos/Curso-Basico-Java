@@ -22,7 +22,7 @@ public class Ex14 {
                 impar++;
             }
         }
-        System.out.print("Vetor A = ");
+        System.out.print("A = ");
         for (int i=0; i<A.length; i++){
             System.out.print(A[i] + " - ");
         }
